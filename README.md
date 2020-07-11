@@ -9,6 +9,7 @@
 
 ![Alt text](https://github.com/JavaSoares/IT_Challenge/blob/master/screenshot_1.png|alt=screenshot_1)
 
+![Rocket Redis](/.screenshot.png)
 
 
 https://github.com/Diana-ops/womakerscodeReact/blob/master/api-cep/src/assets/background.png
