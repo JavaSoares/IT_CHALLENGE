@@ -7,9 +7,11 @@
   <img src="screenshot_1.png_number_2_large_name" width="350" alt="accessibility text">
 </p>
 
-![Alt text](screenshot_1.png?raw=true "Title")
+![Alt text](https://github.com/JavaSoares/IT_Challenge/blob/master/img/screenshot_1.png|alt=screenshot_1)
 
-[[https://github.com/JavaSoares/IT_Challenge/blob/master/img/screenshot_1.png|alt=screenshot_1]]
+
+
+https://github.com/Diana-ops/womakerscodeReact/blob/master/api-cep/src/assets/background.png
 
 # Indice
 
