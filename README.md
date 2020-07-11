@@ -2,6 +2,11 @@
     <img src= "screenshot_1.png">
 </h1>
 
+<h1 align="center">
+    <img alt="Expansion Week" src="screenshot_1.png" width="400px" />
+</h1>
+
+
 # Indice
 
 - [Sobre](#-sobre)
