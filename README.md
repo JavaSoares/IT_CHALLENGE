@@ -7,7 +7,7 @@
   <img src="screenshot_1.png_number_2_large_name" width="350" alt="accessibility text">
 </p>
 
-![Alt text](https://github.com/JavaSoares/IT_Challenge/blob/master/img/screenshot_1.png|alt=screenshot_1)
+![Alt text](https://github.com/JavaSoares/IT_Challenge/blob/master/screenshot_1.png|alt=screenshot_1)
 
 
 
