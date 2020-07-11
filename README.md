@@ -2,18 +2,6 @@
     <img src= "screenshot_1.png">
 </h1>
 
-![Screenshot_1](https://raw.githubusercontent.com/JavaSoares/IT_Challenge/assets/screenshot_1.png)
-
-<br>
-  <img src="screenshot_1.png" alt="IT_Challenge" width="150">
-<br>
-
-
-![](../master/myFolder/screenshot_1.png)
-
-![Alt text](screenshot_1.png?raw=true "Optional Title")
-
-
 # Indice
 
 - [Sobre](#-sobre)
