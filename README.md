@@ -4,6 +4,7 @@
 
 ![Screenshot_1](https://raw.githubusercontent.com/JavaSoares/IT_Challenge/assets/screenshot_1.png)
 
+![](../master/myFolder/screenshot_1.png)
 # Indice
 
 - [Sobre](#-sobre)
