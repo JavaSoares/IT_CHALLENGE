@@ -1,10 +1,5 @@
 ![](screenshot_1.png)
 
-<p align="center">
-  <img src="screenshot_1.png" width="350" title="hover text">
-  <img src="screenshot_1.png" width="350" alt="accessibility text">
-</p>
-
 # Indice
 
 - [Sobre](#-sobre)
