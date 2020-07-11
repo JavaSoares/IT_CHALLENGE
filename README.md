@@ -1,22 +1,6 @@
 <h1 align="center">
-    <img src= "screenshot_1.png">
+    <img src= "/screenshot_1.png">
 </h1>
-
-<p align="center">
-  <img src="screenshot_1.png" width="350" title="hover text">
-  <img src="screenshot_1.png_number_2_large_name" width="350" alt="accessibility text">
-</p>
-
-![Alt text](https://github.com/JavaSoares/IT_Challenge/blob/master/screenshot_1.png|alt=screenshot_1)
-
-![Rocket Redis](/.screenshot.png)
-
-<div align="center">
-    <img alt="NLW-starter" src="screenshot.png" width="35%" />
-</div>
-
-
-https://github.com/Diana-ops/womakerscodeReact/blob/master/api-cep/src/assets/background.png
 
 # Indice
 
