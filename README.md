@@ -1,4 +1,4 @@
-![Screenshot_1](screenshot_1.png)
+![screenshot_1](screenshot_1.png)
 
 # Indice
 
