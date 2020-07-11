@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src= "./screenshot_1.png">
+    <img src= "screenshot_1.png">
 </h1>
 
 # Indice
