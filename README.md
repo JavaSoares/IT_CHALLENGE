@@ -7,6 +7,7 @@
   <img src="screenshot_1.png_number_2_large_name" width="350" alt="accessibility text">
 </p>
 
+![Alt text](screenshot_1.png?raw=true "Title")
 
 # Indice
 
