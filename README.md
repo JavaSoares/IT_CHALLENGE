@@ -1,6 +1,4 @@
-<h1 align="center">
-    <img src= "screenshot_1.png">
-</h1>
+![Screenshot_1](screenshot_1.png)
 
 # Indice
 
