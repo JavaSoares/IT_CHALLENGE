@@ -1,6 +1,4 @@
-<p align="center">
-    <img src= "screenshot_1.png">
-</p>
+<img src= "screenshot_1.png">
 
 
 # Indice
