@@ -1,5 +1,8 @@
-<img src= "screenshot_1.png">
+<h1 align="center">
+    <img src= "screenshot_1.png">
+</h1>
 
+![Screenshot_1](https://raw.githubusercontent.com/JavaSoares/IT_Challenge/5036bdc/screenshot_1.png)
 
 # Indice
 
