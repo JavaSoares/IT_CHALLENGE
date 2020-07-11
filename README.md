@@ -9,6 +9,8 @@
 
 ![Alt text](screenshot_1.png?raw=true "Title")
 
+[[https://github.com/JavaSoares/IT_Challenge/blob/master/img/screenshot_1.png|alt=screenshot_1]]
+
 # Indice
 
 - [Sobre](#-sobre)
