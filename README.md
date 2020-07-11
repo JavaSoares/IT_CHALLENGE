@@ -2,6 +2,12 @@
     <img src= "screenshot_1.png">
 </h1>
 
+<p align="center">
+  <img src="screenshot_1.png" width="350" title="hover text">
+  <img src="screenshot_1.png_number_2_large_name" width="350" alt="accessibility text">
+</p>
+
+
 # Indice
 
 - [Sobre](#-sobre)
