@@ -11,6 +11,10 @@
 
 ![Rocket Redis](/.screenshot.png)
 
+<div align="center">
+    <img alt="NLW-starter" src="screenshot.png" width="35%" />
+</div>
+
 
 https://github.com/Diana-ops/womakerscodeReact/blob/master/api-cep/src/assets/background.png
 
