@@ -1,4 +1,4 @@
-![screenshot](screenshot_1.png)
+![](screenshot_1.png)
 
 <p align="center">
   <img src="screenshot_1.png" width="350" title="hover text">
