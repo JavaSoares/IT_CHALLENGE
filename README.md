@@ -1,11 +1,6 @@
 <h1 align="center">
-    <img src= "screenshot_1.png">
+    <img alt="IT Challenge" src="screenshot_1.png" width="300px" />
 </h1>
-
-<h1 align="center">
-    <img alt="Expansion Week" src="screenshot_1.png" width="300px" />
-</h1>
-
 
 # Indice
 
