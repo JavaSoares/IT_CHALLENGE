@@ -6,7 +6,6 @@
 
 <br>
   <img src="screenshot_1.png" alt="IT_Challenge" width="150">
-  <img width="700" src="screenshot_1.png" alt="NLW">
 <br>
 
 
