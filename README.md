@@ -1,4 +1,3 @@
-![](screenshot_1.png)
 
 # Indice
 
