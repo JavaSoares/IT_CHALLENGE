@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-    <img alt="Expansion Week" src="screenshot_1.png" width="500px" />
+    <img alt="Expansion Week" src="screenshot_1.png" width="300px" />
 </h1>
 
 
