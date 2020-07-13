@@ -1,9 +1,4 @@
-<h1 align="center">
-    <img alt="IT Challenge" src="screenshot_1.png" width="700px" />
-</h1>
-
 ![Screenshot_1](https://user-images.githubusercontent.com/64690628/87316219-e077bb80-c4fb-11ea-83da-24c668718a34.png)
-
 
 # Indice
 
