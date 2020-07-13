@@ -2,14 +2,6 @@
     <img alt="IT Challenge" src="screenshot_1.png" width="300px" />
 </h1>
 
-<h1 align="center">
-<br>
-  <img src="JairSoare.jpg" alt="Ecoleta" width="150">
-  <img width="700" src="screenshot_1.png" alt="NLW">
-<br>
-<br>
-</h1>
-
 # Indice
 
 - [Sobre](#-sobre)
