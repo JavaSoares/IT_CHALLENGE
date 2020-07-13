@@ -10,7 +10,8 @@
 
 ---
 ## 📝 Sobre
-Projeto que foi criado dentro do curso **IT Challenge** da empresa **Vulpi**, no intuito que pessoas de Recrutamento de RH aprendam um pouco como é a programação.
+#### Geração de Curriculo.
+Projeto que foi criado dentro do curso **IT Challenge** da empresa **Vulpi**, no intuito que pessoas de Recrutamento de RH aprendam um pouco como é a programaçãéo.
 
 ---
 ## 🚀 Tecnologias utilizadas
