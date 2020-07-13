@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="IT Challenge" src="screenshot_1.png" width="300px" />
+    <img alt="IT Challenge" src="screenshot_1.png" width="400px" />
 </h1>
 
 # Indice
