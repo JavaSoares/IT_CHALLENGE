@@ -4,7 +4,7 @@
 
 <h1 align="center">
 <br>
-  <img src="screenshot_1.png" alt="Ecoleta" width="150">
+  <img src="JairSoare.jpg" alt="Ecoleta" width="150">
   <img width="700" src="screenshot_1.png" alt="NLW">
 <br>
 <br>
