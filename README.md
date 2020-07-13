@@ -2,6 +2,8 @@
     <img alt="IT Challenge" src="screenshot_1.png" width="300px" />
 </h1>
 
+![Alt text](screenshot_1.png) / ![](screenshot_1.png)
+
 # Indice
 
 - [Sobre](#-sobre)
